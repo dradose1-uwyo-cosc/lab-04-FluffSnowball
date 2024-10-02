@@ -2,11 +2,6 @@
 ## Lab 4
 ## Submission date: 10/01/24
 ## Worked with/sources 
-* example
-* example
-* example
-* example
-## Project Quirks/ Things that don't work
-* example
-* example
-* example
+# Refered to class powerpoint slides
+# Got help from Lab section TA's
+# Help given to Vidal (sits next to me in lab section)
