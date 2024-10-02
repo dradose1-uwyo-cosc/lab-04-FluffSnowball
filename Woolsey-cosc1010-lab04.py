@@ -6,7 +6,7 @@
 # Sources, people worked with, help given to: 
 # Sources used: Class powerpoint slides
 # Worked with: Lab TA's
-# Help given to: Vidal (sits next to me in lab section)
+# Help given to: Vidal B. (sits next to me in lab section)
 
 
 

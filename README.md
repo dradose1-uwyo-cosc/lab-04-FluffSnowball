@@ -4,4 +4,4 @@
 ## Worked with/sources 
 # Refered to class powerpoint slides
 # Got help from Lab section TA's
-# Help given to Vidal (sits next to me in lab section)
+# Help given to Vidal B. (sits next to me in lab section)
